@@ -1,7 +1,7 @@
 # DLVR Final Project - IMC 2023
 
 >[!NOTE]
-> Group: 15
+> Group: 15  
 > Author: 廖恩莆、鄭旭閔、鄭博文、何義翔
 
 Image-based 3D reconstruction typically requires precise camera pose information (location and orientation). Traditionally, dedicated hardware is needed to collect this information, which makes the task challenging. If we can retrieve this information purely based on visual hints in photos, we can expand the data sources available for 3D reconstruction tasks.
